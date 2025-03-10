@@ -1,0 +1,5 @@
+resp = input("Cal é o teu nome?   ")
+print("Ostras... que nome máis bonito " , resp)
+print("Ti caesme moi ben " , resp)
+print("Espero que teñas un bo día " , resp)
+print("Vemonos outro día " , resp , ", un saudo!")
